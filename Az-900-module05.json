@@ -1,21 +1,11 @@
 [ {
-  "Name": "Create blob storage",
+  "Name": "Module 02 - Core Azure Services (Workloads)",
   "Language": "English",
+  "BaseURL": "https://github.com/CloudLabs-MOC/AZ-900T0x-MicrosoftAzureFundamentals/tree/prod",
   "Files": [
     {
       "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/AZ-900T0x-MicrosoftAzureFundamentals/prod/Instructions/Walkthroughs/05-Create%20Blob%20storage.md",
       "Order": 1
     }
-  ]
-},
-{
-  "Name": "Create blob storage",
-  "Language": "Spanish",
-  "Files": [
-    {
-      "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/AZ-900T0xES-MicrosoftAzureFundamentals/stage/Instructions/Walkthroughs/05-Create%20Blob%20storage.md",
-      "Order": 1
-    }
-  ]
-} 
-]
+    ]
+}]
