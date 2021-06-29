@@ -1,10 +1,10 @@
-[ {
+{
   "Name": "Module 02 - Core Azure Services (Workloads)",
   "Language": "English",
   "BaseURL": "https://github.com/CloudLabs-MOC/AZ-900T0x-MicrosoftAzureFundamentals/tree/prod",
   "Files": [
     {
-      "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/AZ-900T0x-MicrosoftAzureFundamentals/prod/Instructions/Walkthroughs/05-Create%20Blob%20storage.md",
+      "RawFilePath": "https://github.com/CloudLabs-MOC/AZ-900T0x-MicrosoftAzureFundamentals/edit/prod/Instructions/Walkthroughs/06-Create%20a%20SQL%20database.md",
       "Order": 1
     }
     ]
