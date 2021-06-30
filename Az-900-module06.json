@@ -4,7 +4,7 @@
   "BaseURL": "https://github.com/CloudLabs-MOC/AZ-900T0x-MicrosoftAzureFundamentals/tree/prod",
   "Files": [
     {
-      "RawFilePath": "https://github.com/CloudLabs-MOC/AZ-900T0x-MicrosoftAzureFundamentals/edit/prod/Instructions/Walkthroughs/06-Create%20a%20SQL%20database.md",
+      "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/AZ-900T0x-MicrosoftAzureFundamentals/prod/Instructions/Walkthroughs/06-Create%20a%20SQL%20database.md",
       "Order": 1
     }
     ]
